@@ -15,7 +15,7 @@ Entering in the VLC telnet server through PUTTY or any other telnet client allow
 
 You can now start the python script that will ask you to prompt the local ip address of the computer running VLC.
 
-Obviously, don't forget to upload the .pde sketch to your arduino board and make the right circuits connections: With the serial monitor of arduino you'll get all the IR code of your remote controller. The you should map the IR serial codes in the python script.
+Obviously, don't forget to upload the .pde sketch to your arduino board and make the right circuits connections: With the serial monitor of arduino you'll get all the IR code of your remote controller. Then you should map the IR serial codes in the python script.
 
 
 Here's the link to the italian docs explaining circuit connection in details:
